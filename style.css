@@ -1,0 +1,29 @@
+h1{
+	margin:0px auto;
+	margin-top:40px;
+}
+.main{
+	border: 1px solid gray;
+	width:500px;
+	margin:0px auto;
+	margin-top:20px;
+	background-color:#B0C4DE;
+}
+.field{
+	width:99%;
+	margin:5px 2px 5px 2px;
+	padding:2px;
+	background-color:#C0C0C0;
+}
+.btnoperator{
+	background-color:#800000;
+	color:white;
+}
+.btn{
+	width:100px;
+	margin:5px 10px 5px 10px;
+}
+.btnhalf{
+	margin:5px 10px 5px 10px;
+	width:225px;
+}
